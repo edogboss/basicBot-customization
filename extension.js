@@ -105,6 +105,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://github.com/edogboss/basicBot-customization/tree/patch-1', extend);
+    $.getScript('https://raw.githubusercontent.com/edogboss/basicBot-customization/patch-1/extension.js', extend);
 
 }).call(this);
